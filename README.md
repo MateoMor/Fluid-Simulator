@@ -232,8 +232,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📞 Contact
 
-[Add contact information here]
-
----
-
-**Note**: This simulator is designed for educational and research purposes to demonstrate SPH fluid dynamics principles.
+mateo.morales.dev@gmail.com
